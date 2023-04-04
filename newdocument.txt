@@ -1,0 +1,18 @@
+React Element:
+dom: html abong css jakisui amara likhina keno sob kisu ai dom er sahajjo page a load hoi.
+
+jsx= javascript script xml
+xml = extensitve markup language
+
+xml syntex er subidha holo er modhe issa moto javascript syntex use kora jai daynamicly {new date();}
+jsx nijeo ekjon valid javascript syntex
+
+jsx multiline code kora jai html er moto sei khetra amader first braket use korte hobe ()
+react security add kora aecy bahir theke keo kono kisu inject korte parbena
+
+import ReactDom From 'react-dom';  a browser a print korte
+process: ReactDOM.render(element, position of browser);
+
+react element change kora jaina like h1, h2, img or ader properties like src class but element tage er vitorer value change kora jai
+
+
